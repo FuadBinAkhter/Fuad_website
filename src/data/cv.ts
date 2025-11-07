@@ -1,9 +1,9 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
+		company: 'Tennessee State University',
+		time: '2024 - Current',
+		title: 'Graduate Research Assistant',
+		location: 'Tennessee, USA',
 		description: '',
 	},
 	// {
@@ -17,10 +17,18 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
+		school: 'Tennessee State University',
+		time: '2024 - Current',
+		degree: 'M.Sc. in Computer Science',
+		location: 'Tennessee, USA',
+		description: '',
+	},
+	
+	{
+		school: 'Ahsanullah University of Science and Technology',
+		time: '2018 - 2023',
+		degree: 'B.Sc. in Computer Science and Engineering',
+		location: 'Dhaka, Bangladesh',
 		description: '',
 	},
 	// {
